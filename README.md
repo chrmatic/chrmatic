@@ -1,16 +1,13 @@
-## Hi there 👋
+# hi, i'm chrmatic
 
-<!--
-**chrmatic/chrmatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+full-stack developer and sleep addict
+<br> did my projects catch your attention? head over to my portfolio 👉🏼 [chrmatic.dev](https://chrmatic.dev)
 
-Here are some ideas to get you started:
+<br />
+<img src="https://count.getloli.com/@:chrmatic?name=:chrmatic&theme=asoul&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,bun,py,github,redis,cloudflare,ts,go,html,css,rust,git,linux&perline=8" />
+
+## Credits
+> <b><a href="https://github.com/nitLix">@Nitlix</a></b> for the <b>cute icons and overall layout</b><br />
+> <b><a href="https://github.com/iarguealot">@iarguealot</a></b> for the <b>view counter idea</b>
