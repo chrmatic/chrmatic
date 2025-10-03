@@ -1,7 +1,6 @@
 # hi, i'm chrmatic
 
 full-stack developer and sleep addict
-<br> did my projects catch your attention? head over to my portfolio 👉🏼 [chrmatic.dev](https://chrmatic.dev)
 
 <br />
 <img src="https://count.getloli.com/@:chrmatic?name=:chrmatic&theme=asoul&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
