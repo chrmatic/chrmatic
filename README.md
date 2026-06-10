@@ -1,6 +1,6 @@
 # hey, i'm chrmatic
 
-self-taught, full-stack developer and sleep addict. i never finish projects, don't expect much public repos
+sleep and music addict. i never finish projects, don't expect much public repos
 
 ## about me
 
