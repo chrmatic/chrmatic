@@ -9,6 +9,7 @@ My GitHub really just speaks for itself, I'm a full-stack developer based in the
 ## projects
 
 - [pomice](https://github.com/chrmatic/pomice) — not really a "self project", but it has some cool features?
+- [gitscribe (soon)](https://github.com/chrmatic/gitscribe) — an easy way to create commit messages
 
 ## the frameworks/technologies I use daily
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,bun,py,github,redis,cloudflare,ts,go,html,css,rust,git,linux&perline=8" />
